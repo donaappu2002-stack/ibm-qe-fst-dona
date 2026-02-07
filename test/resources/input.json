@@ -1,0 +1,13 @@
+{
+    "id": 3634,
+    "category": {
+        "id": 1,
+        "name": "Dog"
+    },
+    "name": "Xor",
+    "tags": [{
+        "id": 1,
+        "name": "Rottweiler"
+    }],
+    "status": "Happy!happy!"
+}
